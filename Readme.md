@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricky</h1>
 <h3 align="center">I live in Southeast Ohio, believe in full-stack dev, and love me some Rails.</h3>
 
-- 🔭 I’m currently working on [Mission Met](https://www.missionmet.com/)
+- 🔭 I’m currently working on [Mission Met](https://www.missionmet.com/) and focus much of my efforts on [Causey](https://www.causey.app)
 
 - 💬 Ask me about **rails, stimulus, ruby, me**
 
