@@ -48,4 +48,4 @@
 
 ## Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rickychilcott)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rickychilcott)](https://git.io/streak-stats)
