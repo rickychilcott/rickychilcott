@@ -36,13 +36,9 @@
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
   </a>
-  <!-- Turbo -->
+  <!-- Turbo and StimulusJS-->
   <a href="https://turbo.hotwired.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="turbo" width="40" height="40"/>
-  </a>
-  <!-- Stimulus -->
-  <a href="https://stimulus.hotwired.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="stimulusjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/hotwired/turbo-site/refs/heads/main/_source/_assets/images/logo.svg" alt="Turbo and StimulusJS" width="40" height="40"/>
   </a>
 </p>
 
