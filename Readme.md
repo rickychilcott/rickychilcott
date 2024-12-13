@@ -44,7 +44,7 @@
 </a>
 
 ### Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickychilcott&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickychilcott&show_icons=true&locale=en)
 
 ## Streak
 
