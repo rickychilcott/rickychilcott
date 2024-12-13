@@ -43,8 +43,9 @@
   <img src="https://raw.githubusercontent.com/hotwired/turbo-site/refs/heads/main/_source/_assets/images/logo.svg" alt="Turbo and StimulusJS" width="40" height="40"/>
 </a>
 
+### Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickychilcott&show_icons=true&locale=en)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickychilcott&show_icons=true&locale=en" alt="rickychilcott" />
+## Streak
 
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickychilcott&" alt="rickychilcott" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rickychilcott)](https://git.io/streak-stats)
