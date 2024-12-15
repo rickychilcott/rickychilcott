@@ -1,7 +1,3 @@
-<style>
-  a.tech-link { text-decoration: none; }
-</style>
-
 <h1 align="center">Hi 👋, I'm Ricky</h1>
 <h3 align="center">I live in Southeast Ohio, believe in full-stack dev, and love me some **Rails.**</h3>
 
@@ -19,27 +15,27 @@
 ### Languages and Tools:
 
 <!-- Ruby -->
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer" class="tech-link">
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 </a>
 <!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" class="tech-link">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 <!-- Python -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer" class="tech-link">
+<a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 <!-- PostgreSQL -->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" class="tech-link">
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
 <!-- SQLite -->
-<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer" class="tech-link">
+<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
 </a>
 <!-- Turbo and StimulusJS-->
-<a href="https://turbo.hotwired.dev/" target="_blank" rel="noreferrer" class="tech-link">
+<a href="https://turbo.hotwired.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/hotwired/turbo-site/refs/heads/main/_source/_assets/images/logo.svg" alt="Turbo and StimulusJS" width="40" height="40"/>
 </a>
 
