@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricky</h1>
 <h3 align="center">I live in Southeast Ohio, believe in full-stack dev, and love me some **Rails.**</h3>
 
-- 🔭 I’m currently maintaining [Causey](https://www.causey.app/), while I hack on [Stoked](https://get.stokedhq.com/) and figure out what I'm doing in this next chapter.
+- 🔭 I’m currently maintaining [Causey](https://www.causey.app/), while I hack on [Stoked](https://get.stokedhq.com/), and figure out what I'm doing in this next chapter.
 
 - 💬 Ask me about **rails, turbo, stimulus, ruby, SQLite, LLMs, me**.
 
